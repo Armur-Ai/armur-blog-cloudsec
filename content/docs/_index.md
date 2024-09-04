@@ -1,5 +1,5 @@
 ---
 taxonomyCloud: []
-title: Cloud Native Security
+title: Cloud Security
 weight: 20
 ---
