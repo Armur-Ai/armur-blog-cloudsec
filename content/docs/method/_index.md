@@ -1,7 +1,6 @@
 ---
 title: "Cloud Penetration Testing Methodology"
-description: "Comprehensive guide on methodologies and best practices for conducting effective cloud penetration testing."
-image: "https://armur-ai.github.io/armur-blog-cloudsec/images/met.jpg"
+image: "https://armur-ai.github.io/armur-blog-cloudsec/images/4.jpg"
 icon: "code"
 draft: false
 ---

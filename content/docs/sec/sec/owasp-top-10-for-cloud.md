@@ -1,7 +1,6 @@
 ---
 title: "OWASP Top 10 for Cloud: Understanding Common Cloud Vulnerabilities"
-description: "Explore the OWASP Top 10 project's list of the most critical security risks to cloud computing and learn how to mitigate them."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-cloudsec/images/5.avif"
 icon: "code"
 draft: false
 ---

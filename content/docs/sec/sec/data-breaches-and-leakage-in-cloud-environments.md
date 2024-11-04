@@ -1,7 +1,6 @@
 ---
 title: "Data Breaches and Leakage in Cloud Environments: Prevention and Response"
-description: "Understand the common causes of data breaches and leakage in cloud environments and learn how to use Data Loss Prevention (DLP) tools like OpenDLP to protect sensitive data."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-cloudsec/images/5.avif"
 icon: "code"
 draft: false
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Container Security Pentesting"
-description: "tutorials on pentesting containers"
-image: "https://armur-ai.github.io/armur-blog-cloudsec/images/dk.jpg"
+image: "https://armur-ai.github.io/armur-blog-cloudsec/images/2.jpg"
 icon: "code"
 draft: false
 ---

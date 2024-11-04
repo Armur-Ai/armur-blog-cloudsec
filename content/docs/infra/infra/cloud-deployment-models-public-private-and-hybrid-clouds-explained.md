@@ -1,7 +1,6 @@
 ---
 title: "Cloud Deployment Models: Public, Private, and Hybrid Clouds Explained"
-description: "Learn about the various cloud deployment models - public, private, and hybrid - and how they impact security considerations."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-cloudsec/images/3.jpg"
 icon: "code"
 draft: false
 ---

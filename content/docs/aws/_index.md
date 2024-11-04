@@ -1,7 +1,6 @@
 ---
 title: " AWS Security Pentesting"
-description: "tutorials on pentesting AWS"
-image: "https://armur-ai.github.io/armur-blog-cloudsec/images/aws.jpg"
+image: "https://armur-ai.github.io/armur-blog-cloudsec/images/1.avif"
 icon: "code"
 draft: false
 ---

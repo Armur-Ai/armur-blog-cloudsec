@@ -1,7 +1,6 @@
 ---
 title: "AWS IAM Security Assessment: Auditing and Hardening Your AWS Identity and Access Management"
-description: "Learn how to perform a comprehensive security assessment of your AWS IAM using tools like PMapper, Pacu, and Parliament to identify and mitigate potential risks."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-cloudsec/images/1.avif"
 icon: "code"
 draft: false
 ---

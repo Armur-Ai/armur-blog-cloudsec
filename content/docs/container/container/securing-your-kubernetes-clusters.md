@@ -1,12 +1,9 @@
 ---
 title: "Kubernetes Security Assessment and Penetration Testing: Securing Your Kubernetes Clusters"
-description: "Explore techniques and tools for assessing and penetration testing Kubernetes clusters using Kube-bench, Kube-hunter, and Falco to enhance your security posture."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-cloudsec/images/2.jpg"
 icon: "code"
 draft: false
 ---
-
-## Introduction
 
 Kubernetes has become the de facto standard for container orchestration, enabling the deployment and management of containerized applications at scale.  Securing your Kubernetes clusters is essential to protect your applications, data, and infrastructure from potential vulnerabilities and attacks. This tutorial explores techniques and tools for assessing and penetration testing Kubernetes clusters, focusing on popular tools like Kube-bench, Kube-hunter, and Falco.
 

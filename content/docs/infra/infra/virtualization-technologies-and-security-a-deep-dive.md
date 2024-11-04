@@ -1,7 +1,6 @@
 ---
 title: "Virtualization Technologies and Security: A Deep Dive"
-description: "Discover the fundamentals of virtualization technologies like VirtualBox and VMware, and understand their role in cloud security."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-cloudsec/images/3.jpg"
 icon: "code"
 draft: false
 ---

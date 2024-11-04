@@ -1,7 +1,6 @@
 ---
 title: "Reconnaissance and Information Gathering in Cloud Penetration Testing"
-description: "Master the art of reconnaissance and information gathering in cloud environments using powerful tools like Shodan, Censys, CloudMapper, and SpiderFoot."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-cloudsec/images/4.jpg"
 icon: "code"
 draft: false
 ---

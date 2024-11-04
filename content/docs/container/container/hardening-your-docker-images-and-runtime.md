@@ -1,12 +1,9 @@
 ---
 title: "Docker Container Security and Vulnerability Assessment: Hardening Your Docker Images and Runtime"
-description: "Learn how to secure your Docker containers and assess them for vulnerabilities using tools like Docker Bench for Security, Clair, and Anchore Engine."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-cloudsec/images/2.jpg"
 icon: "code"
 draft: false
 ---
-
-## Introduction
 
 Docker containers have revolutionized software development and deployment, offering portability, scalability, and efficiency. However, container security is crucial to protect your applications and data from potential vulnerabilities and attacks. This tutorial explores techniques and tools for securing your Docker containers and assessing them for vulnerabilities, focusing on popular tools like Docker Bench for Security, Clair, and Anchore Engine.
 

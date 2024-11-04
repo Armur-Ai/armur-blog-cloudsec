@@ -1,7 +1,6 @@
 ---
 title: "S3 Bucket Security and Penetration Testing: Protecting Your Data in AWS S3"
-description: "Discover techniques and tools for securing and penetration testing your AWS S3 buckets using s3scanner, Bucket Finder, and Cloud Custodian to prevent data breaches."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-cloudsec/images/1.avif"
 icon: "code"
 draft: false
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Account Hijacking and Privilege Escalation: Defending Against Cloud Attacks"
-description: "Learn about account hijacking and privilege escalation attacks in cloud environments and discover how to use tools like Metasploit and Burp Suite to test and improve your security posture."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-cloudsec/images/5.avif"
 icon: "code"
 draft: false
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Understanding Cloud Service Models: IaaS, PaaS, and SaaS"
-description: "Explore the core differences between Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS) and their security implications."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-cloudsec/images/3.jpg"
 icon: "code"
 draft: false
 ---
